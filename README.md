@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @KUKUYADAV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+ @KUKUYADAV
+- 🌱 I’m currently learning AWS 
 - 📫 @kukuyadav_01 is my instagram
 - 😄 i don't know anything about github, any one can help me please?
 - ⚡ JAI HO
